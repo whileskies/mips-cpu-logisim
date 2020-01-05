@@ -14,7 +14,7 @@ Logisim实现的五级流水线MIPS CPU
 - R型系统调用：syscall
 	> if $v0 = 34   数码管显示$a0值
 	> 
-	else  暂停  等待Go按钮按下
+	> else  暂停  等待Go按钮按下
 
 
 - I型分支指令：beq、bne
