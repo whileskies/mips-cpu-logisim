@@ -32,7 +32,7 @@ Logisim实现的五级流水线MIPS CPU
 ## 运行示例
 运行递归斐波拉契程序如下所示：
 
-![img](https://whileskies-pic.oss-cn-beijing.aliyuncs.com/20200729145810.gif)
+![img](pic/fib.gif)
 
 ## To-Do
 - 中断
